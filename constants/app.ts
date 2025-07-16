@@ -11,7 +11,7 @@ export const APP_STORE_KEYS = {
   userId: "userId",
 };
 
-export const API_URL = "http://192.168.1.138:3000";
+export const API_URL = "http://95.111.227.162:3000";
 
 export enum APP_KEYSTORE_KEYS_ENUM {
   USER_SECURITY_DATA_KEYS = "user_security_data_keys",
